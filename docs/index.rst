@@ -1,6 +1,11 @@
 =======================================
 Office 365 Redemption: Enter Your Product Key and Set Up Microsoft Office
 =======================================
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://office365setup.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Office Setup</a>
+   </div>
 
 When it comes to setting up Microsoft Office, the first step you’ll need to take is completing the **Office 365 redemption** process. This is an essential part of activating your software and ensuring you can begin enjoying all the powerful tools Office 365 has to offer. In this guide, we’ll walk you through the process of how to **enter your Office product key**, redeem it, and set up Microsoft Office on your PC or Mac. Whether you're a first-time user or reinstalling Office, these steps will help you get up and running smoothly.
 
